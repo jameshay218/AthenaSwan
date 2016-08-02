@@ -1,0 +1,15 @@
+Package: AthenaSwan
+Title: Athena Swan Award Plotting
+Version: 1.0.0
+Author: James Hay <james.hay13@imperial.ac.uk>
+Maintainer: James Hay <james.hay13@imperial.ac.uk> <jameshay218@gmail.com>
+Description: Suite of functions to read in data and plot charts related to the
+    Athena Swan award.
+Depends:
+    R (>= 3.3.0)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/jameshay218/AthenaSwan
+BugReports: https://github.com/jameshay218/AthenaSwan/issues
+RoxygenNote: 5.0.1
